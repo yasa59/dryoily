@@ -7,6 +7,7 @@ import tensorflow as tf
 import os
 
 # Set random seeds for reproducibility
+#first part and second part is here(yasas amarasekara)
 np.random.seed(0)
 tf.random.set_seed(0)
 
